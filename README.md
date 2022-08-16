@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi Rachel Setyawan 👋
+
+<p>Hello there im Rachel Setyawan</p>
 
 <!--
 **R4C-Wanz/R4C-Wanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
