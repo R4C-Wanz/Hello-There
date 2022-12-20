@@ -1,4 +1,4 @@
-## Hi Rachel Setyawan 👋
+## Hi 👋
 
 <p>Hello there im Rachel Setyawan</p>
 
